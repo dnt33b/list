@@ -224,9 +224,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/291
 #EXTINF:-1 tvg-id="bandsports.br"  tvg-logo="https://liebeurl.me/logos/bandsports.png" group-title="CH-TEMP-SPORTS", Band Sports
 https://stream1.freetv.fun/band-sports-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrz0sJk7/dazn.png" group-title="CH-TEMP-SPORTS",   DAZN
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazntv-lgca/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ESPNBrazil.br"  tvg-logo="https://liebeurl.me/logos/espn.png" group-title="CH-TEMP-SPORTS", ESPN Brasil
 https://super-cdn.link/espn/tracks-v1a1/mono.m3u8
 
@@ -236,16 +233,16 @@ http://tv.fazoeli.co.za/m3u8/espn2.m3u8
 #EXTINF:-1 tvg-id="PremiereClubes.br"  tvg-logo="https://liebeurl.me/logos/premiereclubes.png" group-title="CH-TEMP-SPORTS", Premiere Clubes
 https://super-cdn.link/premiereclubes/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQmgw8sN/spttv.jpg" group-title="CH-TEMP-SPORTS",   SPORT.TV 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQmgw8sN/spttv.jpg" group-title="CH-TEMP-SPORTS", (PT)  SPORT.TV 1
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQmgw8sN/spttv.jpg" group-title="CH-TEMP-SPORTS",   SPORT.TV 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQmgw8sN/spttv.jpg" group-title="CH-TEMP-SPORTS", (PT)  SPORT.TV 2
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQmgw8sN/spttv.jpg" group-title="CH-TEMP-SPORTS",   SPORT.TV 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQmgw8sN/spttv.jpg" group-title="CH-TEMP-SPORTS", (PT)  SPORT.TV 3
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQmgw8sN/spttv.jpg" group-title="CH-TEMP-SPORTS",   SPORT.TV 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQmgw8sN/spttv.jpg" group-title="CH-TEMP-SPORTS", (PT)  SPORT.TV 4
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
 
 #EXTINF:-1 tvg-id="Sportv.br"  tvg-logo="https://i.postimg.cc/wv54xppR/sprtv1.png" group-title="CH-TEMP-SPORTS", SPORTV 
@@ -256,6 +253,26 @@ https://super-cdn.link/sportv2/index.m3u8
 
 #EXTINF:-1 tvg-id="sportv3.br" tvg-logo="https://i.postimg.cc/NG4CWBDW/sprtv3.png" group-title="CH-TEMP-SPORTS", SporTV3 
 https://super-cdn.link/sportv3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1" tvg-logo="" group-title="CH-TEMP-SPORTS", Prime Video
+http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1127
+
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1" tvg-logo="" group-title="CH-TEMP-SPORTS", NOSSO FUTEBOL 1
+http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1131
+
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2" tvg-logo="" group-title="CH-TEMP-SPORTS", NOSSO FUTEBOL 2
+http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1132
+
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 3" tvg-logo="" group-title="CH-TEMP-SPORTS", NOSSO FUTEBOL 3
+http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1133
+
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 4" tvg-logo="" group-title="CH-TEMP-SPORTS", NOSSO FUTEBOL 4
+http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1134
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrz0sJk7/dazn.png" group-title="CH-TEMP-SPORTS",   DAZN
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazntv-lgca/playlist.m3u8
+
 
 
 ############################## CANAIS RUNTIME & PLUTO FILMES  ###############################
