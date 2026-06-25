@@ -73,7 +73,7 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yWNpSDp/uivtv.jpg" group-title="TV.ONLINE", TVideos News
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1790120794.m3u8
 
-#EXTINF:-1 id="AMC.br" tvg-logo="https://i.ibb.co/nLfJw3y/OCKO.png" group-title="SOUND", RT (RUSSIAN DOCS)
+#EXTINF:-1 id="AMC.br" tvg-logo="https://i.ibb.co/nLfJw3y/OCKO.png" group-title="TV.ONLINE", RT (RUSSIAN DOCS)
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 
 
