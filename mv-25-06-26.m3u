@@ -110,10 +110,10 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w16199828.m3u8
 https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 id="tva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuld-p7Gna7pMEBQyWhUDb0OKPf6Xs4jkLIw&s" group-title="OPEN.TV", TV AFRICA SD
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
 
 #EXTINF:-1 id="TVF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDScBzzNPQk4Mvs-hCdLZgJ4dGN-J2jXH9ng&s" group-title="OPEN.TV",  TV FICÇÃO HD
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
 
 
 ############################### RADIO #####################################
@@ -151,11 +151,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ycx8dsw5" group-title="SOUND",  NOW ROCK SD
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y8jsdtee" group-title="SOUND",  ELECTRO SD
-https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-
 
 #EXTINF:-1 id="KRONEHITS" tvg-logo="https://i.ibb.co/NLBWKFD/KRONEHITS.jpg" group-title="SOUND", KRONEHITS SD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
@@ -214,7 +209,7 @@ https://1a-1791.com/video/s8/2/2/6/Y/I/26YIh.caa.mp4?u=0&b=0
 https://1a-1791.com/video/s8/2/G/m/U/I/GmUIh.caa.mp4?u=0&b=0
 
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://i.ibb.co/d2g1XLx/TODO-MUNDO-EM-PANICO-1.jpg" group-title="MY-MOVIES",TODO MUNDO EM PANICO 1
-https://sp.rmbl.ws/s8/2/O/v/Q/N/OvQNh.caa.mp4?u=0&b=0
+https://1a-1791.com/video/s8/2/O/v/Q/N/OvQNh.caa.mp4?u=0&b=0
 
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://i.ibb.co/Wp8wcq3/2.jpg" group-title="MY-MOVIES",TODO MUNDO EM PANICO 2
 https://1a-1791.com/video/s8/2/Y/4/x/J/Y4xJh.caa.mp4?u=0&b=0
@@ -286,25 +281,25 @@ https://1a-1791.com/video/s8/2/O/Z/w/W/OZwWk.caa.mp4?u=0&b=0
 https://1a-1791.com/video/s8/2/g/a/F/W/gaFWg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://i.ibb.co/5Wq4rw0/jESUS.jpg" group-title="FDT",  A VOLTA DE JESUS
-https://sp.rmbl.ws/s8/2/Y/8/y/Y/Y8yYg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/Y/8/y/Y/Y8yYg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://i.ibb.co/DDyhzN7/crparmgdm.jpg" group-title="FDT",  CONTAGEM REGRESSIVA PARA O ARMAGEDOM
-https://sp.rmbl.ws/s8/2/1/i/H/o/1iHog.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/1/i/H/o/1iHog.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://i.ibb.co/pLZczwG/7src.jpg" group-title="FDT",  OS 7 SINAIS DO RETORNO DE CRISTO
-https://sp.rmbl.ws/s8/2/L/-/C/o/L-Cog.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/L/-/C/o/L-Cog.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://i.ibb.co/DMXSwxX/ddarmg.jpg" group-title="FDT",  DEPOIS DO ARMAGEDOM
-https://sp.rmbl.ws/s8/2/7/N/E/q/7NEqg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/7/N/E/q/7NEqg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://i.ibb.co/QH3P11c/isr.jpg" group-title="FDT",  ISRAEL eo isla
-https://sp.rmbl.ws/s8/2/1/K/q/o/1Kqog.caa.mp4?u=0&b=0
+https://1a-1791.com/video/s8/2/1/K/q/o/1Kqog.caa.mp4?u=0&b=0
 
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://i.ibb.co/tBbCz5w/fdtps.jpg" group-title="FDT",  SOCIEDADE MONITORADA
-https://sp.rmbl.ws/s8/2/Y/M/C/Z/YMCZg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/Y/M/C/Z/YMCZg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://i.ibb.co/XDzmjZD/illumnts.jpg" group-title="FDT", OS ILLUMINATIS E A BIBLIA
-https://sp.rmbl.ws/s8/2/c/u/Z/n/cuZng.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/c/u/Z/n/cuZng.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-id="SS" tvg-logo="https://i.ibb.co/2jjfgqt/oc5hs.png" group-title="FDT",O. CARVALHO 5HRS
 https://1a-1791.com/video/s8/2/I/r/1/i/Ir1ih.caa.mp4?u=3&b=0
@@ -317,31 +312,31 @@ https://1a-1791.com/video/s8/2/I/r/1/i/Ir1ih.caa.mp4?u=3&b=0
 https://1a-1791.com/video/s8/2/W/5/M/Y/W5MYg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="http://dnt33b.infinityfreeapp.com/apk/img/cd.gif" group-title="PREPARE-SE", DVD-49
-https://sp.rmbl.ws/s8/2/E/x/w/Y/ExwYg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/E/x/w/Y/ExwYg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nzM98D/cd.gif" group-title="PREPARE-SE", DVD-48
-https://sp.rmbl.ws/s8/2/a/9/u/Y/a9uYg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/a/9/u/Y/a9uYg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nzM98D/cd.gif" group-title="PREPARE-SE", DVD-47
-https://sp.rmbl.ws/s8/2/E/I/h/T/EIhTg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/E/I/h/T/EIhTg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-46
-https://sp.rmbl.ws/s8/2/M/n/5/S/Mn5Sg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/M/n/5/S/Mn5Sg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nzM98D/cd.gif" group-title="PREPARE-SE", DVD-45 
-https://sp.rmbl.ws/s8/2/s/K/p/R/sKpRg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/s/K/p/R/sKpRg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nzM98D/cd.gif" group-title="PREPARE-SE", DVD-44
-https://sp.rmbl.ws/s8/2/q/T/o/P/qToPg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/q/T/o/P/qToPg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nzM98D/cd.gif" group-title="PREPARE-SE", DVD-43
-https://sp.rmbl.ws/s8/2/K/Z/I/O/KZIOg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/K/Z/I/O/KZIOg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nzM98D/cd.gif" group-title="PREPARE-SE", DVD-42
-https://sp.rmbl.ws/s8/2/6/u/y/M/6uyMg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/6/u/y/M/6uyMg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nzM98D/cd.gif" group-title="PREPARE-SE", DVD-41
-https://sp.rmbl.ws/s8/2/o/K/z/I/oKzIg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/o/K/z/I/oKzIg.caa.mp4?u=3&b=0
 
 ######################
 
@@ -349,31 +344,31 @@ https://sp.rmbl.ws/s8/2/o/K/z/I/oKzIg.caa.mp4?u=3&b=0
 https://1a-1791.com/video/s8/2/2/u/N/n/2uNng.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-39
-https://sp.rmbl.ws/s8/2/Q/8/K/n/Q8Kng.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/Q/8/K/n/Q8Kng.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-38
-https://sp.rmbl.ws/s8/2/r/U/y/l/rUylg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/r/U/y/l/rUylg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-37
-https://sp.rmbl.ws/s8/2/f/X/e/l/fXelg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/f/X/e/l/fXelg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-36
-https://sp.rmbl.ws/s8/2/D/z/b/l/Dzblg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/D/z/b/l/Dzblg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-35
-https://sp.rmbl.ws/s8/2/y/T/K/j/yTKjg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/y/T/K/j/yTKjg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-34
-https://sp.rmbl.ws/s8/2/P/v/o/i/Pvoig.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/P/v/o/i/Pvoig.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-33
-https://sp.rmbl.ws/s8/2/j/F/l/i/jFlig.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/j/F/l/i/jFlig.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="http://dnt33b.infinityfreeapp.com/apk/img/cd.gif" group-title="PREPARE-SE", DVD-32
-https://sp.rmbl.ws/s8/2/Z/H/h/g/ZHhgg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/Z/H/h/g/ZHhgg.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-31
-https://sp.rmbl.ws/s8/2/d/Z/3/d/dZ3dg.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/d/Z/3/d/dZ3dg.caa.mp4?u=3&b=0
 
 ###############################
 
@@ -381,31 +376,31 @@ https://sp.rmbl.ws/s8/2/d/Z/3/d/dZ3dg.caa.mp4?u=3&b=0
 https://1a-1791.com/video/s8/2/V/W/R/L/VWRLf.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="http://dnt33b.infinityfreeapp.com/apk/img/cd.gif" group-title="PREPARE-SE", DVD-29
-https://sp.rmbl.ws/s8/2/N/h/O/L/NhOLf.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/N/h/O/L/NhOLf.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="http://dnt33b.infinityfreeapp.com/apk/img/cd.gif" group-title="PREPARE-SE", DVD-28
-https://sp.rmbl.ws/s8/2/p/W/4/G/pW4Gf.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/p/W/4/G/pW4Gf.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-27
-https://sp.rmbl.ws/s8/2/1/v/D/E/1vDEf.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/1/v/D/E/1vDEf.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="http://dnt33b.infinityfreeapp.com/apk/img/cd.gif" group-title="PREPARE-SE", DVD-26
-https://sp.rmbl.ws/s8/2/j/l/t/z/jltzf.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/j/l/t/z/jltzf.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-25
-https://sp.rmbl.ws/s8/2/f/d/N/y/fdNyf.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/f/d/N/y/fdNyf.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="http://dnt33b.infinityfreeapp.com/apk/img/cd.gif" group-title="PREPARE-SE", DVD-24
-https://sp.rmbl.ws/s8/2/7/M/n/y/7Mnyf.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/7/M/n/y/7Mnyf.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-23
-https://sp.rmbl.ws/s8/2/d/u/6/v/du6vf.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/d/u/6/v/du6vf.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="http://dnt33b.infinityfreeapp.com/apk/img/cd.gif" group-title="PREPARE-SE", DVD-22
-https://sp.rmbl.ws/s8/2/B/G/H/n/BGHnf.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/B/G/H/n/BGHnf.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-21
-https://sp.rmbl.ws/s8/2/r/L/e/m/rLemf.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/r/L/e/m/rLemf.caa.mp4?u=3&b=0
 
 ###################################
 
@@ -413,57 +408,57 @@ https://sp.rmbl.ws/s8/2/r/L/e/m/rLemf.caa.mp4?u=3&b=0
 https://1a-1791.com/video/s8/2/v/4/5/7/v457e.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-19 COMPLETO
-https://sp.rmbl.ws/s8/2/T/F/K/0/TFK0e.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/T/F/K/0/TFK0e.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-18 COMPLETO 
-https://sp.rmbl.ws/s8/2/z/a/h/F/zahFe.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/z/a/h/F/zahFe.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-17 COMPLETO 
-https://sp.rmbl.ws/s8/2/P/f/n/i/Pfnie.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/P/f/n/i/Pfnie.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-16 COMPLETO 
-https://sp.rmbl.ws/s8/2/j/O/S/c/jOSce.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/j/O/S/c/jOSce.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-15 COMPLETO 
-https://sp.rmbl.ws/s8/2/_/f/z/c/_fzce.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/_/f/z/c/_fzce.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-14 COMPLETO 
-https://sp.rmbl.ws/s8/2/j/y/G/b/jyGbe.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/j/y/G/b/jyGbe.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-13 COMPLETO 
-https://sp.rmbl.ws/s8/2/g/C/n/-/gCn-d.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/g/C/n/-/gCn-d.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-12 COMPLETO 
-https://sp.rmbl.ws/s8/2/B/u/S/7/BuS7d.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/B/u/S/7/BuS7d.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-11 COMPLETO 
-https://sp.rmbl.ws/s8/2/l/e/e/7/lee7d.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/l/e/e/7/lee7d.caa.mp4?u=3&b=0
 
 ####################################
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-10 COMPLETO 
-https://sp.rmbl.ws/s8/2/q/d/o/6/qdo6d.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/q/d/o/6/qdo6d.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-09 COMPLETO 
-https://sp.rmbl.ws/s8/2/R/Y/F/5/RYF5d.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/R/Y/F/5/RYF5d.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-08 COMPLETO 
-https://sp.rmbl.ws/s8/2/y/x/I/4/yxI4d.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/y/x/I/4/yxI4d.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-07 COMPLETO 
-https://sp.rmbl.ws/s8/2/u/6/G/3/u6G3d.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/u/6/G/3/u6G3d.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-06 COMPLETO 
-https://sp.rmbl.ws/s8/2/B/r/4/2/Br42d.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/B/r/4/2/Br42d.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-05 COMPLETO 
-https://sp.rmbl.ws/s8/2/Y/s/U/2/YsU2d.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/Y/s/U/2/YsU2d.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-04 COMPLETO 
-https://sp.rmbl.ws/s8/2/f/z/T/1/fzT1d.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/f/z/T/1/fzT1d.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-03 COMPLETO 
-https://sp.rmbl.ws/s8/2/0/r/G/1/0rG1d.caa.mp4?u=3&b=0
+https://1a-1791.com/video/s8/2/0/r/G/1/0rG1d.caa.mp4?u=3&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51kXnbR/preparese.jpg" group-title="PREPARE-SE", DVD-02 COMPLETO 
 https://1a-1791.com/video/s8/2/m/5/t/Z/m5tZd.caa.mp4?u=3&b=0
@@ -565,28 +560,28 @@ https://1a-1791.com/video/s8/2/I/Q/2/r/IQ2rk.caa.mp4?u=0&b=0
 https://1a-1791.com/video/s8/2/c/v/E/M/cvEMk.caa.mp4?u=0&b=0
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QpScStm/ang.jpg" group-title="Anger-M-S03",  E14
-https://sp.rmbl.ws/s8/2/m/J/I/M/mJIMk.caa.mp4?u=0&b=0
+https://1a-1791.com/video/s8/2/m/J/I/M/mJIMk.caa.mp4?u=0&b=0
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QpScStm/ang.jpg" group-title="Anger-M-S03",  E15
-https://sp.rmbl.ws/s8/2/w/v/M/M/wvMMk.caa.mp4?u=0&b=0
+https://1a-1791.com/video/s8/2/w/v/M/M/wvMMk.caa.mp4?u=0&b=0
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QpScStm/ang.jpg" group-title="Anger-M-S03",  E16
 https://1a-1791.com/video/s8/2/e/S/O/M/eSOMk.caa.mp4?u=0&b=0
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QpScStm/ang.jpg" group-title="Anger-M-S03",  E17
-https://sp.rmbl.ws/s8/2/k/f/T/M/kfTMk.caa.mp4?u=0&b=0
+https://1a-1791.com/video/s8/2/k/f/T/M/kfTMk.caa.mp4?u=0&b=0
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QpScStm/ang.jpg" group-title="Anger-M-S03",  E18
-https://sp.rmbl.ws/s8/2/U/B/Y/M/UBYMk.caa.mp4?u=0&b=0
+https://1a-1791.com/video/s8/2/U/B/Y/M/UBYMk.caa.mp4?u=0&b=0
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QpScStm/ang.jpg" group-title="Anger-M-S03",  E20
-https://sp.rmbl.ws/s8/2/s/L/2/M/sL2Mk.caa.mp4?u=0&b=0
+https://1a-1791.com/video/s8/2/s/L/2/M/sL2Mk.caa.mp4?u=0&b=0
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QpScStm/ang.jpg" group-title="Anger-M-S03",  E21
-https://sp.rmbl.ws/s8/2/8/B/5/M/8B5Mk.caa.mp4?u=0&b=0
+https://1a-1791.com/video/s8/2/8/B/5/M/8B5Mk.caa.mp4?u=0&b=0
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QpScStm/ang.jpg" group-title="Anger-M-S03",  E22
-https://sp.rmbl.ws/s8/2/w/w/j/N/wwjNk.caa.mp4?u=0&b=0
+https://1a-1791.com/video/s8/2/w/w/j/N/wwjNk.caa.mp4?u=0&b=0
 
 ############################ Anger-M-S04 ##########################
 
@@ -644,8 +639,6 @@ https://1a-1791.com/video/s8/2/O/K/B/S/OKBSk.caa.mp4?u=0&b=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QpScStm/ang.jpg" group-title="Anger-M-S04",  E18
 https://1a-1791.com/video/s8/2/M/s/H/S/MsHSk.caa.mp4?u=0&b=0
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QpScStm/ang.jpg" group-title="Anger-M-S04",  E19
 https://1a-1791.com/video/s8/2/6/t/K/W/6tKWk.caa.mp4?u=0&b=0
