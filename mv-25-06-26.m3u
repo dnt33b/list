@@ -61,6 +61,9 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/133414
 #EXTINF:-1 id="History2Brazil.br" tvg-logo="https://i.ibb.co/FzPfp6h/dsfgfdgfd.jpg" group-title="TV.ONLINE", HistoryTime
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-tablo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yWNpSDp/uivtv.jpg" group-title="TV.ONLINE", Faroeste
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yWNpSDp/uivtv.jpg" group-title="TV.ONLINE", MOVIES
 https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w543522291.m3u8
 
@@ -75,6 +78,10 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1790120794.m3
 
 #EXTINF:-1 id="AMC.br" tvg-logo="https://i.ibb.co/nLfJw3y/OCKO.png" group-title="TV.ONLINE", RT (RUSSIAN DOCS)
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yWNpSDp/uivtv.jpg" group-title="TV.ONLINE",Anime
+https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w961879420.m3u8
 
 
 ###############################   OPEN.TV       #####################################
@@ -109,11 +116,14 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w16199828.m3u8
 #EXTINF:-1 id="FUTURA.br" tvg-logo="http://i.ibb.co/YTQFWJy/novo.png" group-title="OPEN.TV", TV FUTURA
 https://tv.unisc.br/hls/test.m3u8
 
-#EXTINF:-1 id="tva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuld-p7Gna7pMEBQyWhUDb0OKPf6Xs4jkLIw&s" group-title="OPEN.TV", TV AFRICA SD
-
+#EXTINF:-1 id="tva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuld-p7Gna7pMEBQyWhUDb0OKPf6Xs4jkLIw&s" group-title="OPEN.TV", Record News
+https://tinyurl.com/myebju2k
 
 #EXTINF:-1 id="TVF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDScBzzNPQk4Mvs-hCdLZgJ4dGN-J2jXH9ng&s" group-title="OPEN.TV",  TV FICÇÃO HD
 https://tinyurl.com/2s2zuyva
+
+#EXTINF:-1 id="tva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuld-p7Gna7pMEBQyWhUDb0OKPf6Xs4jkLIw&s" group-title="OPEN.TV", TVi
+https://tinyurl.com/ms8zpxz8
 
 
 ############################### RADIO #####################################
